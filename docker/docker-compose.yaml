@@ -1,0 +1,29 @@
+version: "3.3"
+services:
+  bootnode:
+    image: "hyperledger/besu:21.10.5"
+    volumes:
+      - ./config:/config
+    networks:
+      - default
+    ports:
+      - 30303:30303
+      - 8545:8545
+      - 8546:8546
+      - 8547:8547
+    entrypoint:
+      - /bin/bash
+      - -c
+      - |
+
+        /opt/besu/bin/besu \
+        --config-file=/config/config.toml \
+        --genesis-file=/config/genesis.json \
+        --nat-method=NONE \
+        --p2p-port=30303 \
+        --rpc-http-port=8545 \
+        --rpc-ws-port=8546 \
+        --graphql-http-port=8547 \
+        --logging=INFO \
+        --sync-mode=FULL \
+        --node-private-key-file=/opt/besu/data/key;

@@ -1,0 +1,23 @@
+logging="INFO"
+data-path="/opt/besu/data"
+host-whitelist=["*"]
+min-gas-price=1120000000
+
+rpc-http-enabled=true
+rpc-http-host="0.0.0.0"
+rpc-http-cors-origins=["*"]
+rpc-http-api=["ETH", "NET", "WEB3"]
+rpc-tx-feecap=0
+
+rpc-ws-enabled=true
+rpc-ws-host="0.0.0.0"
+rpc-ws-api=["ETH", "NET", "WEB3"]
+
+graphql-http-enabled=true
+
+metrics-enabled=false
+
+static-nodes-file="/config/static-nodes.json"
+discovery-enabled=true
+
+tx-pool-retention-hours=1
