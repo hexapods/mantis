@@ -39,7 +39,7 @@ Statement of the Validators: [Download](https://github.com/hexapods/mantis/blob/
 <img src="https://phoenix-systems.io/logos/logo_switch.png" width="200" alt="Switch" title="Switch">
 
 * [https://switch.ch](https://switch.ch)
-* Validator address: [0x90f5dd1be0b83bb31db66d24d2a120622dcb6547](https://mantis.phoenix-systems.io/address/0x90f5dd1be0b83bb31db66d24d2a120622dcb6547)
+* Validator address: [0x90f5dd1be0b83bb31db66d24d2a120622dcb6547](https://mantis.switch.ch/address/0x90f5dd1be0b83bb31db66d24d2a120622dcb6547)
 
 <img src="https://phoenix-systems.io/logos/logo_phoenix.png" width="200" alt="Phoenix Systems" title="Phoenix Systems">
 
