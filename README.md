@@ -12,6 +12,7 @@
 * [https://mantis-rpc.phoenix-systems.io](https://mantis-rpc.phoenix-systems.io)
 * [https://mantis-rpc.block-spirit.ch](https://mantis-rpc.block-spirit.ch)
 * [https://mantis-rpc.hi1.ch](https://mantis-rpc.hi1.ch)
+* [https://mantis-rpc.switch.ch](https://mantis-rpc.switch.ch)
 * [https://mantis-rpc.phoenix-technologies.ch](https://mantis-rpc.phoenix-technologies.ch)
 * [https://mantis-rpc.kore-technologies.ch](https://mantis-rpc.kore-technologies.ch)
 
@@ -19,6 +20,7 @@
 * [https://mantis.phoenix-systems.io](https://mantis.phoenix-systems.io)
 * [https://mantis.block-spirit.ch](https://mantis.block-spirit.ch)
 * [https://mantis.hi1.ch](https://mantis.hi1.ch)
+* [https://mantis.switch.ch](https://mantis.switch.ch)
 * [https://mantis.phoenix-technologies.ch](https://mantis.phoenix-technologies.ch)
 * [https://mantis.kore-technologies.ch](https://mantis.kore-technologies.ch)
 
