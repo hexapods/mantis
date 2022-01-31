@@ -17,12 +17,25 @@
 * [https://mantis-rpc.kore-technologies.ch](https://mantis-rpc.kore-technologies.ch)
 
 #### Block Explorer
+* Blockscout: [https://blockscout.mantis.hexapod.network/](https://blockscout.mantis.hexapod.network/)
 * [https://mantis.phoenix-systems.io](https://mantis.phoenix-systems.io)
 * [https://mantis.block-spirit.ch](https://mantis.block-spirit.ch)
 * [https://mantis.hi1.ch](https://mantis.hi1.ch)
 * [https://mantis.switch.ch](https://mantis.switch.ch)
 * [https://mantis.phoenix-technologies.ch](https://mantis.phoenix-technologies.ch)
 * [https://mantis.kore-technologies.ch](https://mantis.kore-technologies.ch)
+
+#### MetaMask Configuration
+
+<img src="images/metamask_mantis.png" width="300" alt="MetaMask MANTIS" title="MetaMask MANTIS">
+
+| Field Name | Value |
+| --- | --- |
+| Network Name | MANTIS (Testnet) |
+| New RPC URL | https://mantis-rpc.switch.ch <br/>(or any other RPC URL for Mantis) |
+| Chain ID | 96970 |
+| Currency Symbol | MANTIS |
+| Explorer URL | https://blockscout.mantis.hexapod.network <br/>(for Blockscout) |
 
 #### Useful Links
 * [How to add custom networks to MetaMask](https://community.metamask.io/t/how-to-add-custom-networks-to-metamask-like-binance-and-polygon-matic/3634)
