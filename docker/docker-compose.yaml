@@ -4,7 +4,7 @@ services:
     image: "hyperledger/besu:21.10.5"
     volumes:
       - ./config:/config
-      - ./data:/opt/besu/data
+      - data:/opt/besu/data
     networks:
       - default
     ports:
@@ -28,3 +28,5 @@ services:
         --logging=INFO \
         --sync-mode=FULL \
         --node-private-key-file=/opt/besu/data/key;
+volumes:
+  data:
