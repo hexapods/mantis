@@ -1,7 +1,7 @@
 version: "3.3"
 services:
   bootnode:
-    image: "hyperledger/besu:21.10.5"
+    image: "hyperledger/besu:22.4.1"
     volumes:
       - ./config:/config
       - data:/opt/besu/data
