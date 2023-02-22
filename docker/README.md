@@ -1,6 +1,6 @@
 # <span style="color: green">Mantis</span> [ <span style="color: red">Dragonfly Testnet</span> ]
 
-<img src="https://phoenix-systems.io/logos/mantis.svg" width="100" alt="Mantis" title="Mantis">
+<img src="https://github.com/hexapods/mantis/raw/main/images/mantis.svg" width="100" alt="Mantis" title="Mantis">
 
 #### Blockchain configuration
 
