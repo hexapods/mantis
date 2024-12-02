@@ -65,8 +65,3 @@ Statement of the Validators: [Download](https://github.com/hexapods/mantis/blob/
 
 * [https://phoenix-systems.ch](https://phoenix-systems.ch)
 * Validator address: [0xf3fb87de36bbfa1961cdde13ea5bf471c6999791](https://mantis.phoenix-systems.io/address/0xf3fb87de36bbfa1961cdde13ea5bf471c6999791)
-
-<img src="https://github.com/hexapods/dragonfly/raw/main/images/logo_logichain.png" width="200" alt="Logi Chain Foundation" title="Logi Chain Foundation">
-
-* [https://www.logichain.org](https://www.logichain.org)
-* Validator address: [0x5834f2d5eae04fa9cc9e5f96466c989c794e580f](https://mantis.phoenix-systems.io/address/0x5834f2d5eae04fa9cc9e5f96466c989c794e580f)
